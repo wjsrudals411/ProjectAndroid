@@ -34,8 +34,5 @@ PetList에서 setOnItemClickListener 부여하여 캘린더를 작성할 수 있
 calendarView에 날짜 선택 이벤트 리스너를 등록합니다. 날짜가 선택되면 해당 날짜의 다이어리 내용을 불러옵니다.
 메뉴 기능과 다이어리 작성, 수정, 삭제 기능이 구현되어 있음.
 
-(반려견 검사결과 부분)
-반려견 등록부분과 동일함.
-![dal](https://github.com/wjsrudals411/ProjectAndroid/assets/103473959/354eead6-ca67-4f44-99fc-dc456c6b31f2)
 
 
